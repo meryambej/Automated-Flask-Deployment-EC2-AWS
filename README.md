@@ -4,14 +4,6 @@ A production-ready continuous integration and continuous deployment pipeline dem
 
 ![alt text](image.png)
 
-## Repository Details
-
-**Name:** Automated-Flask-Deployment-EC2-AWS
-
-**Description:** Automated CI/CD pipeline for Flask application deployment using GitHub Actions self-hosted runner, Docker Hub, and AWS EC2 infrastructure
-
-**Topics:** ci-cd, github-actions, docker, aws-ec2, flask, python, devops, automation, containerization, deployment, self-hosted-runner, docker-hub, infrastructure, continuous-integration, continuous-deployment
-
 ## Table of Contents
 
 - [Overview](#overview)
