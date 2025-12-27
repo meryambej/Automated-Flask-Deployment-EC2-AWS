@@ -2,6 +2,6 @@ from flask import Flask
 app = Flask(__name__)
 @app.route("/")
 def hello():
- return "Hello from Flask running in Docker by meryabej :)"
+ return "Hello from Updated Flask App via CI/CD by meryambej :)"
 if __name__ == "__main__":
  app.run(host="0.0.0.0", port=5000)
