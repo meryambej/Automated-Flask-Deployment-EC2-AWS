@@ -24,7 +24,7 @@ A production-ready continuous integration and continuous deployment pipeline dem
 - [Verification](#verification)
 - [Workflow Explanation](#workflow-explanation)
 - [Security Considerations](#security-considerations)
-- [License](#license)
+
 
 ## Overview
 
