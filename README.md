@@ -2,7 +2,7 @@
 
 A production-ready continuous integration and continuous deployment pipeline demonstrating automated Docker containerization and deployment using GitHub Actions self-hosted runner on AWS EC2.
 
-![alt text](image.png)
+![alt text](image1.png)
 
 ## Table of Contents
 
